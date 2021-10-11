@@ -1,0 +1,3 @@
+/mnt/c/Users/navarrof/Araceli_NF/2021/October/ANF_G4Start/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/navarrof/Araceli_NF/2021/October/ANF_G4Start/build/CMakeFiles/ANFmain.dir
+/mnt/c/Users/navarrof/Araceli_NF/2021/October/ANF_G4Start/build/CMakeFiles/edit_cache.dir

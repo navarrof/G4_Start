@@ -1,0 +1,9 @@
+#  -------------------------  Macro file for FaradayCup_TryN ------------------------- #
+
+# ------------  Initialize kernel ------------ #
+/run/initialize
+
+
+
+# ------------ START ------------------ #
+/run/beamOn 1
